@@ -310,7 +310,7 @@ export default function Home({imageLoader}){
                     </div>
                     <div className="h-64 w-64 flex flex-col justify-between	rounded-xl dark:bg-telapro drop-shadow-2xl bg-gray-100 px-10 py-5 relative">
                         <div>
-                            <h1 className="mb-2 text-xl font-semibold">Crialçao de Site</h1>
+                            <h1 className="mb-2 text-xl font-semibold">Criação de Site</h1>
                             <p>Fazemos o seu site totalmente personalizado com a sua marca.</p>
                         </div>
                         <div className="flex justify-center">
@@ -322,7 +322,7 @@ export default function Home({imageLoader}){
                     <div className="h-64 w-64 flex flex-col justify-between	rounded-xl dark:bg-telapro drop-shadow-2xl bg-gray-100 px-10 py-5 relative">
                         <div>
                             <h1 className="mb-2 text-xl font-semibold">Apresentações PowerPoint</h1>
-                            <p>Nos envie o conteúdo e fazer a sua apresentação sensacional.</p>
+                            <p>Nos envie o conteúdo e fazemos a sua apresentação sensacional.</p>
                         </div>
                         <div className="flex justify-center">
                             <Link href={'mailto:igorcortez02@gmail.com'}>
